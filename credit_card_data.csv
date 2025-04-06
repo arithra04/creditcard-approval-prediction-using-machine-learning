@@ -1,0 +1,16 @@
+Applicant_ID,Age,Income,Employment_Status,Credit_Score,Loan_Amount,Existing_Loans,Debt_to_Income_Ratio,Approval_Status
+101,25,50000,Employed,720,20000,1,0.25,1
+102,32,45000,Self-Employed,680,15000,0,0.30,1
+103,40,70000,Employed,690,25000,2,0.40,1
+104,29,30000,Unemployed,600,10000,1,0.50,0
+105,50,80000,Employed,750,50000,3,0.20,1
+106,35,40000,Self-Employed,620,12000,0,0.35,0
+107,28,35000,Employed,660,18000,1,0.45,0
+108,45,90000,Employed,780,30000,2,0.15,1
+109,33,47000,Self-Employed,710,20000,0,0.30,1
+110,55,60000,Retired,730,10000,1,0.10,1
+111,23,25000,Unemployed,590,5000,0,0.60,0
+112,38,54000,Employed,700,22000,1,0.28,1
+113,41,52000,Self-Employed,680,20000,2,0.32,1
+114,26,32000,Employed,630,12000,0,0.50,0
+115,30,48000,Self-Employed,700,16000,1,0.40,1
